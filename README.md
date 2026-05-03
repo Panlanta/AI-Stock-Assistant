@@ -42,6 +42,7 @@ It fetches live market data and visualizes trends to help users understand marke
 ## 🖥️ Application Preview
 
 ![App UI](ui.png)
+![Result](result.png)
 
 ---
 
